@@ -4,7 +4,6 @@ const styles = StyleSheet.create({
   // coin details header
   headerContainer: {
     flexDirection: 'row',
-    paddingHorizontal: 10,
     alignItems: 'center',
     justifyContent: 'space-between',
   },
